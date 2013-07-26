@@ -1,4 +1,5 @@
-//Hi! This is meant for people who don't code. I realize this means you might not nuderstand why certain commands are \//full of /\^$ and stuff, or what's with all the brackets. Confusing! Check this out for a primer on javascript: 
+//Hi! This is meant for people who don't code. I realize this means you might not nuderstand why certain commands are 
+//full of /\^$ and stuff, or what's with all the brackets. Confusing! Check this out for a primer on javascript: 
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions 
 
 var Bot    = require('ttapi');
